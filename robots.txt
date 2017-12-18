@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /database/
+Disallow: /mailer/
+Disallow: /payment/
+Disallow: /phpmongodb/

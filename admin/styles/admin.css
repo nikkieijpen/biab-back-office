@@ -1,0 +1,16 @@
+table {
+    width: 100%;
+    margin-left: 2px;
+}
+
+table {
+    border-collapse: separate;
+}
+
+table tr td, table tr th {
+    padding: 0 0 10px;
+}
+
+a.create {
+    margin: 5px 0 30px;
+}

@@ -1,0 +1,1 @@
+PAID pt_BR

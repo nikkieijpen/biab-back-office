@@ -1,0 +1,8 @@
+admin/composer.lock
+admin/libs/
+admin/vendor/
+cdn/
+mailer/vendor/
+mailer/composer.lock
+payment/vendor/
+payment/composer.lock
